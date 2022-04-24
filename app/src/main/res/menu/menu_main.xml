@@ -7,14 +7,14 @@
         android:title="Log Out" />
     <item
         android:id="@+id/idChores"
-        android:icon="@drawable/ic_chores"
+
         android:title="Chores" />
     <item
         android:id="@+id/idGroceries"
-        android:icon="@drawable/ic_grocery"
+
         android:title="Groceries" />
     <item
         android:id="@+id/idPolls"
-        android:icon="@drawable/ic_poll"
+
         android:title="Polls" />
 </menu>
